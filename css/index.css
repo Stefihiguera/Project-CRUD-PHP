@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://sofiserrano98.files.wordpress.com/2014/03/paisaj2.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+/* CSS form */
+.form-group{
+    margin-top: 20px;
+}
+/* CSS input */
+.form-input{
+    margin-top: 10px;
+    text-align: center;
+}
+/* h2 */
+h2{
+    text-align: center;
+}
+textarea{
+    max-height: 150px;
+    background-color: transparent;
+}
+/* th */
+.th{
+    color: black;
+}
+/* line */
+.line{
+    color: white;
+}
